@@ -34,7 +34,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
+---
 
+### 🔥 Highlight Projects
+#### [🎬 MovieFinder](https://github.com/vithun-sk/Movie-Finder)
+> A React-based movie search application using TMDB API with real-time movie data
+
+- Dynamic search & movie listing  
+- Clean UI and responsive design  
+- Deployed on Vercel
+  
+#### [🔍 FindItNow – Lost and Found Web App] (https://github.com/vithun-sk/Lost-and-Found) 
+A frontend web application to report lost and found items  
+
+- User-friendly forms and structured UI  
+- Responsive layout for better accessibility  
+- Built using HTML, CSS, and JavaScript 
+
+---
 
 ### 📬 Let's Connect
 <p align="center">
@@ -45,8 +62,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vithun-sk&show_icons=true&theme=radical&border_radius=10" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vithun-sk&theme=radical" width="45%" />
-</p>
+> ⚡ Code securely. Scale responsibly. Build fearlessly.
