@@ -10,7 +10,7 @@
 🧑‍💻 About Me  
 🎓 B.Tech Computer Science and Engineering @ SRM Institute of Science and Technology, Ramapuram  
 💻 Passionate about building responsive and user-friendly web interfaces  
-🧠 Strong foundation in HTML, CSS, JavaScript, TailWind CSS and React  
+🧠 Strong foundation in HTML, CSS, JavaScript, Tailwind CSS and React  
 🚀 Experienced in deploying frontend applications using GitHub Pages and Vercel  
 🎯 Actively seeking frontend / web development internship opportunities  
 
