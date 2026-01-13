@@ -44,8 +44,8 @@
 - Clean UI and responsive design  
 - Deployed on Vercel
   
-#### [🔍 FindItNow – Lost and Found Web App] (https://github.com/vithun-sk/Lost-and-Found) 
-A frontend web application to report lost and found items  
+#### [🔍 FindItNow – Lost and Found Web App](https://github.com/vithun-sk/Lost-and-Found) 
+> A frontend web application to report lost and found items  
 
 - User-friendly forms and structured UI  
 - Responsive layout for better accessibility  
