@@ -38,15 +38,15 @@
 
 ### 📬 Let's Connect
 <p align="center">
-  <a href="mailto:jjoserenita6179@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jose-renita-joseph-381935283"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Renitajoseph"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:vithunkumar07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vithun-sk/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vithun-sk"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renitajoseph&show_icons=true&theme=radical&border_radius=10" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renitajoseph&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vithun-sk&show_icons=true&theme=radical&border_radius=10" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vithun-sk&theme=radical" width="45%" />
 </p>
