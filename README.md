@@ -68,6 +68,13 @@
 - Deployed on Vercel
 - Tech: React, JavaScript, TMDB API
 
+#### [👨‍🎓 Student Management System – CRUD Web App](https://github.com/vithun-sk/Student-Managment-Sysytem)
+> Browser-based student management app with full CRUD operations
+- Add, edit, delete student records with real-time search
+- Student stats dashboard (total, active, inactive count)
+- LocalStorage for persistent data without backend
+- Tech: HTML, CSS, Vanilla JavaScript, LocalStorage
+
 #### [🔍 FindItNow – Lost and Found App]( https://github.com/vithun-sk/Lost-and-Found)
 > Frontend web app to report and find lost community items
 - Search and filter listings
@@ -79,7 +86,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vithun-sk&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithun-sk&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithun-sk&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
 ---
