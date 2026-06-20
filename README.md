@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | React · Node.js · Express · MySQL</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MySQL;Building+Real-World+Web+Apps;Open+to+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;;Building+Real-World+Web+Apps;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
