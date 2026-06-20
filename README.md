@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Vithun S K</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | React · Node.js · Express · MySQL</h3>
+<h3 align="center">🚀 Full Stack Developer | React · Node.js · Express · MySQL</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;Building+Real-World+Web+Apps;Open+to+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;Building+Real-World+Web+Apps;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,6 +43,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -52,7 +53,7 @@
 > Full-stack recruitment platform built to solve a real gap in hiring workflows
 - JWT authentication with role-based access control across 3 roles (Admin, HR, Candidate)
 - 15+ REST API endpoints with Node.js & Express, securing 10+ protected routes via middleware
-- Normalized MySQL schema; Frontend on Vercel, Backend on Render
+- Normalized MySQL schema; Frontend on Vercel, Backend on Render, Database on Railway
 - **Tech:** React · Node.js · Express · MySQL · JWT · JavaScript
 - 🔗 [Live Demo](https://recruitment-management-system-eosin.vercel.app/) · [GitHub](https://github.com/vithun-sk/Recruitment-Management-System)
 
