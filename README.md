@@ -143,12 +143,14 @@ Full Stack Developer | React · Node.js · Express · MySQL
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=vithun-sk&show_icons=true&theme=tokyonight"
-    height="160"
+    alt="Vithun's GitHub Stats"
   />
+</p>
 
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithun-sk&layout=compact&theme=tokyonight"
-    height="160"
+    alt="Vithun's Top Languages"
   />
 </p>
 
