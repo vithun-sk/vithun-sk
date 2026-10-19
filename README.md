@@ -1,30 +1,27 @@
-<h1 align="center">Hi there 👋, I'm Vithun S K</h1>
+# Hi there 👋, I'm Vithun S K
 
-<h3 align="center">
-Full Stack Developer | React · Node.js · Express · MySQL
-</h3>
+<h3 align="center">Full Stack Developer | Java · Spring Boot · React</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;Building+Real-World+Web+Applications;Open+to+Internship+Opportunities"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Web+Applications;Exploring+AI-Powered+Applications;Open+to+Software+Development+Internships" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering @ SRM Institute of Science and Technology
+- 🎓 B.Tech Computer Science Engineering student at **SRM Institute of Science and Technology**
 - 📈 CGPA: **9.35 / 10**
-- 💻 Full Stack Developer focused on building practical and real-world web applications
-- ⚛️ Experienced with **React.js, Node.js, Express.js, MySQL, and MongoDB**
-- 🔐 Hands-on experience with **JWT Authentication, Role-Based Access Control, REST APIs, and Middleware**
+- 💻 Full Stack Developer interested in building practical, real-world web applications
+- ☕ Working with **Java, Spring Boot, JavaScript, React.js, Node.js, and Express.js**
+- 🔐 Experience with **REST APIs, JWT Authentication, and Role-Based Access Control**
+- 🗄️ Database experience with **MySQL, SQL, and relational database design**
 - 🤖 Exploring AI-powered applications using **Groq API and LLM-based classification**
-- 🧠 Solved **100+ Data Structures & Algorithms problems** using C++
-- 🏆 Selected for the **live evaluation round at Ampyo Hackathon**, placing in the top 200 of 1,000+ registered teams
-- 🍃 Earned **5 MongoDB Skill Badges** covering MongoDB fundamentals, RAG, AI agents, AI data strategy, and vector search
-- 🎯 Open to **Full Stack, Frontend, and Backend internship opportunities**
+- 🧠 Solved **100+ Data Structures and Algorithms problems** using Java
+- 🏆 Secured **3rd place at ICKATHON**, conducted by SSN College of Engineering
+- 🚀 Advanced to the live evaluation round at **Ampyo Hackathon**
+- 🍃 Earned **5 MongoDB Skill Badges** covering RAG, AI agents, AI data strategy, and vector search
+- 🎯 Open to **Software Development, Full Stack, Frontend, and Backend internship opportunities**
 
 ---
 
@@ -32,10 +29,11 @@ Full Stack Developer | React · Node.js · Express · MySQL
 
 ### 🚀 Programming Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### 💻 Frontend
 
@@ -46,47 +44,64 @@ Full Stack Developer | React · Node.js · Express · MySQL
 
 ### ⚙️ Backend
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### 🤖 AI
+### 🤖 AI Integration
 
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Integration-6C47FF?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ### 🌱 Currently Learning
 
-**TypeScript · Next.js · Docker · PostgreSQL**
+**Advanced Java · Spring Boot · Data Structures & Algorithms · Backend Development**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧑‍💼 RecruitHub — Full-Stack Recruitment Management System
+### 📋 FlowSync — Collaborative Kanban Board
 
-> Full-stack recruitment platform designed to streamline hiring workflows for Admins, HR professionals, and Candidates.
+> A collaborative task-management application designed to help teams organize work, manage priorities, and track project progress.
 
-- 🔐 Implemented **JWT-based authentication** with Role-Based Access Control for **3 user roles** — Admin, HR, and Candidate
-- 🛡️ Secured **10+ protected REST API routes** using middleware-level authorization
-- ⚙️ Designed and implemented **15+ RESTful API endpoints** using Node.js and Express.js
-- 🗄️ Designed a **normalized MySQL relational database schema**
-- 📋 Implemented job posting, application submission, and application status workflows
-- 🔄 Supported application state transitions such as **Applied → Shortlisted / Rejected**
-- 🎨 Developed separate role-based dashboards for different users
+- 📌 Focused on task organization, assignments, priorities, and deadlines
+- ⚙️ Developing the backend using Java and Spring Boot
+- 🗄️ Using MySQL for relational data management
+- 🔗 Building REST APIs to support project and task workflows
+
+**Tech:** React.js · Java · Spring Boot · MySQL · REST API
+
+🔗 [GitHub Repository](https://github.com/vithun-sk/Kanban-board)
+
+---
+
+### 🧑‍💼 RecruitHub — Recruitment Management System
+
+> A full-stack recruitment platform designed to streamline hiring workflows for Admins, HR professionals, and Candidates.
+
+- 🔐 Implemented JWT authentication and Role-Based Access Control for **3 user roles**
+- 🛡️ Secured **10+ protected REST API routes** using authorization middleware
+- ⚙️ Developed **15+ REST API endpoints** using Node.js and Express.js
+- 🗄️ Designed a normalized MySQL relational database schema
+- 📋 Implemented job posting, application submission, and application-status workflows
+- 🎨 Built role-specific dashboards for different user types
 
 **Tech:** React.js · Node.js · Express.js · MySQL · JWT · REST API · JavaScript
 
@@ -96,87 +111,63 @@ Full Stack Developer | React · Node.js · Express · MySQL
 
 ### 🛡️ ScamShield — AI-Powered Scam Detection Platform
 
-> AI-powered platform for analyzing suspicious messages and identifying potential scam and phishing patterns.
+> An AI-powered web application that analyzes suspicious messages to identify potential scam and phishing indicators.
 
-- 🤖 Integrated the **Groq API** for AI-powered suspicious message classification
-- 🔍 Analyzes potential indicators such as urgency, financial requests, suspicious links, impersonation, phishing behavior, and fake rewards
-- ⚙️ Developed a full-stack pipeline connecting a React frontend with an LLM-backed Node.js/Express API
-- 🧠 Implemented structured AI responses containing risk score, risk level, category, red flags, and recommended actions
-- 📝 Documented system architecture, setup, and usage in a structured README
+- 🤖 Integrated the **Groq API** for LLM-based suspicious-message classification
+- 🔍 Analyzes message content for potential red flags and scam indicators
+- ⚙️ Connected a React frontend to a Node.js and Express.js backend
+- 🧠 Presents structured AI-generated assessments to help users evaluate suspicious messages
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · Groq API · JavaScript
+**Tech:** React.js · Node.js · Express.js · Groq API · JavaScript
 
-🔗 [GitHub Repository](https://github.com/vithun-sk/scamSheild-AI)
+🔗 [GitHub Repository](https://github.com/vithun-sk/scamSheild-AI) · [Live Demo](https://scam-sheild-ai-one.vercel.app/)
 
 ---
 
 ### 💰 Wealthio — Personal Finance Tracker
 
-> Responsive React-based personal finance application for managing income, expenses, and savings.
+> A responsive finance application for tracking income, expenses, and savings.
 
-- 📊 Integrated **Chart.js** with interactive bar, pie, and line charts
-- 💰 Visualized expense breakdowns, spending trends, and savings-rate information
-- 💾 Implemented persistent data storage using the browser **localStorage API**
-- ⚡ Added state-driven transaction updates without page reloads
-- 📱 Built a responsive component-based interface for mobile and desktop
+- 📊 Integrated Chart.js for interactive financial visualizations
+- 💰 Visualized expense breakdowns and spending trends
+- 💾 Used browser localStorage to persist transaction data
+- 📱 Built a responsive interface with reusable React components
 
 **Tech:** React.js · JavaScript · Chart.js · HTML5 · CSS3 · localStorage
 
-🔗 [GitHub Repository](https://github.com/vithun-sk/Finance-Management)
-· [Live Demo](https://wealthio-finance-mangement.vercel.app/)
+🔗 [GitHub Repository](https://github.com/vithun-sk/Finance-Management) · [Live Demo](https://wealthio-finance-mangement.vercel.app/)
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 Solved **100+ LeetCode problems** across Data Structures and Algorithms using C++
-- 🏆 Selected for the **live evaluation round at Ampyo Hackathon**
-- 🥇 Placed in the **top 200 of 1,000+ registered teams**
-- 🍃 Earned **5 MongoDB Skill Badges**
-- 📚 Completed **5 MongoDB learning units / 5.25 learning hours**
-- 🤖 MongoDB learning topics include **RAG, AI Agents, AI Data Strategy, Vector Search, and MongoDB Fundamentals**
+- 🥉 **3rd Place — ICKATHON**, conducted by SSN College of Engineering
+- 🚀 **Ampyo Hackathon** — Advanced to the live evaluation round
+- 🧠 Solved **100+ LeetCode problems** in Data Structures and Algorithms using Java
+- 🍃 Earned **5 MongoDB Skill Badges** covering MongoDB fundamentals, RAG, AI agents, AI data strategy, and vector search
+
+🔗 [LeetCode Profile](https://leetcode.com/u/Vithun_sk/)
 
 ---
 
 ## 📬 Let's Connect
 
 <p align="center">
-
   <a href="mailto:vithunkumar07@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="https://www.linkedin.com/in/vithun-sk/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://github.com/vithun-sk">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://vithun-portfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
   <a href="https://leetcode.com/u/Vithun_sk/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-
 </p>
 
 ---
