@@ -16,7 +16,7 @@
 - ☕ Working with **Java, Spring Boot, JavaScript, React.js, Node.js, and Express.js**
 - 🔐 Experience with **REST APIs, JWT Authentication, and Role-Based Access Control**
 - 🗄️ Database experience with **MySQL, SQL, and relational database design**
-- 🤖 Exploring AI-powered applications using **Groq API and LLM-based classification**
+- 🤖 Building AI-powered applications using **Groq API and LLM-based classification**
 - 🧠 Solved **100+ Data Structures and Algorithms problems** using Java
 - 🏆 Secured **3rd place at ICKATHON**, conducted by SSN College of Engineering
 - 🚀 Advanced to the live evaluation round at **Ampyo Hackathon**
@@ -32,7 +32,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-
 
 ### 💻 Frontend
 
@@ -78,12 +77,12 @@
 
 ### 📋 FlowSync — Collaborative Kanban Board
 
-> A collaborative task-management application designed to help teams organize work, manage priorities, and track project progress.
+> A collaborative task-management application built to help teams organize tasks, manage priorities, and track project progress.
 
-- 📌 Focused on task organization, assignments, priorities, and deadlines
-- ⚙️ Developing the backend using Java and Spring Boot
-- 🗄️ Using MySQL for relational data management
-- 🔗 Building REST APIs to support project and task workflows
+- 📌 Developed task-management workflows for assignments, priorities, and deadlines
+- ⚙️ Built the backend using Java and Spring Boot
+- 🗄️ Used MySQL for relational data management
+- 🔗 Developed REST APIs to support user, project, and task workflows
 
 **Tech:** React.js · Java · Spring Boot · MySQL · REST API
 
