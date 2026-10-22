@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Java · Spring Boot · React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Web+Applications;Exploring+AI-Powered+Applications;Open+to+Software+Development+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73D93&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Web+Applications;Open+to+Software+Development+Internships" alt="Typing SVG" />
 </p>
 
 ---
